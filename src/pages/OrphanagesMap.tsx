@@ -27,8 +27,6 @@ function OrphanagesMap(){
         });
     }, []);
 
-    //componentes, propriedades, estado
-
     return(
         <div id="page-map">
             <aside>
